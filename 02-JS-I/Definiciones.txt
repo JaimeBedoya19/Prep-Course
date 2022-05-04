@@ -1,0 +1,32 @@
+Variables:
+
+Una variable es un elemento abstracto donde podemos amacenar valores para despues poder utilizarlos, estos elementos pueden ser
+de diferentes tipos como numeros, strings o cadenas de caracteres (palabras, letras, numeros, simbolos o la union de todos ellos) o valores
+booleanos que se refierrena afirmaciones o negaciones.
+
+
+Stringns:
+
+Es un tipo de dato que se refiere a bloques de texto, en el que pueden estar incluidos numeros, letras, simbolos; este tipo de dato
+se define entre comillas.
+
+
+Funciones (argumentos, return):
+
+Una funcion es un bloque de  codigo que contiene una o varias instrucciones para realizar alguna operacion.
+En una funcion se pueden declarar variables como tambien se pueden secibir argumentos.
+Un argumento es un valor que la funcion recibe con el fin de realizar alguna operacion con dicho valor.
+Una funcion puede o no devolver algun tipo de dato segun sea necesario, cuando la funcion retorna algun valorse debe incorporar
+la palabra reservada return, si la funcion no contiene esta palabra reservada no retorna ningun valor.
+
+
+Declaraciones if
+
+Una declaracion if representa a una sentencia selectiva, es una instruccion de realizar alguna operacion si consideramos cierta alguna condicion previa.
+Una centencia repetitiva if puede tener realizar una sola instruccion antes de finalizar, pero tambien puede realiza mas de una  instruccion ademas de poder tambien realizar
+otras instrucciones en caso de no ser cierta la condicion inicial.
+
+Valores Booleanos (tru, false)
+
+Los valore booeanos representan a valores lògicos, es decir representan a una afirmacion True, o a una negacion False; este valor se asiganra a una sola variable que nos ayudara
+para poder activar o no alguna operacion o instruccion.
