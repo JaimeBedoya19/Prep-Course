@@ -1,0 +1,20 @@
+For:
+Es una sentencia que nos permite ejecutar un bloque de codigo, para realizar una o varias operaciones, una cantidad
+de veces como le indiquemos, el numero de veces que se repetira este bucle dependera de nosotros o de lo que necesitemos
+realizar; para poder ejecitar este bucle necesitaremos un valor inicial (para el inicio del bucle), un valor limite (Generalmente
+para poder delimitar el bucle) y un incremento o decremento (para poder llegar al limite del bucle).
+
+
+&&:
+Es operador logico del algebra booleana, que nos indica que una accion se realizara en un caso que los valores de una
+comparacion sean verdaderos. Ejemplo: if(a===b  && a===c){Se ejecuta el codigo}. En este caso vemos que para que se
+ejecute el codigo la variable a y b tienen que ser iguales (Primera comparacion) y la variable a y c tambien tienen
+que ser iguales (Segunda comparacion), entonces ambas comparaciones deben de seer verdaderas.
+
+||:
+Operador logico que nos indica que podemos realizar alguna accion si por lo menos una de dos o mas comparaciones
+son verdaderas.
+
+!:
+Es el operador que nos indica una negacion, si tenemos una comparacion que es verdadera y anteponemos este operador
+a la comparacion entonces este true se convertira en false.
