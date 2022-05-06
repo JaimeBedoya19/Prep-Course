@@ -1,0 +1,12 @@
+Array:
+
+Los arrays son objetos similares a una lista. Los elementos de un array puede ser variables, podemos alamcenar datos de 
+diferentes tipos elementos en un array; la longitud del array tambien puede ser variable, podemos insertar nuevos
+elementos a un array en cualquier momento y tambien podemos eleiminar algun elemento en algun momento que podamos
+considerar.
+
+En lo arrays podemos realizar diferentes operaciones como las de recorrido y tambien de mutacion.
+
+Cada variable que este dentro del array ocupa una posicion, esta posicion esta representada por el subindice o posicion
+del array, para poder acceder a cualquier elemento hacemos referencia a este numero o subindice y no asi al nombre
+de la variable.
