@@ -1,0 +1,15 @@
+Objetos: Es una coleccion de datos que puede guardar varios datos, para poder acceder a esos datos lo hacemos mediante 
+un identificador KEY que corresponde a cada valor del objeto.
+
+Propiedad: Es un dato que contiene un valor dentro del objeto.
+
+Metodo: Es una funcion guardada dentro de un objeto.
+
+Bucle for in: Es un bucle utilizado para recorrer los objetos, se declara una variable y la palabra in y el nombre del
+objeto, este bucle recorrera las claves del objeto y finalizara cuando haya recorrido por todas ellas.
+
+Nptacion de puntos: Utilizamos esta notacion para poder llamar al nobre de un valor del objeto, lo utilizamos llamando
+el nombre del objeto seguido de un punto y el nombre del valor que necesitamos llamar.
+
+Notacion de corchetes: Para utilizar esta notacion llamamos el nombre del objeto seguido de una variable o un numero o 
+una variable que apunte a una cadena o a un numero, esta variabe debe estar entre corchetes.
