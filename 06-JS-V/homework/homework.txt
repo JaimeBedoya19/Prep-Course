@@ -1,0 +1,6 @@
+Prototipo: Es un objeto llamado Proto que esta referenciado por otro objeto, un objeto cualquiera de JS hace referencia
+a un objeto llamado proto cuando buscamos algun metodo, si no lo encuantra en el objeto; esto hace que el objeto
+herede los metodos e instancias del objeto prototipo.
+
+Constructor: Un contructor es un metodo de una clase que ayuda a crear otros objetos que tendran los mismos valores
+de una clase superior.
